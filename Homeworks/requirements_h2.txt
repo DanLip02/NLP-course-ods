@@ -1,0 +1,24 @@
+## DEV
+black
+
+## WEB SCRAPPER
+requests
+beautifulsoup4
+regex
+tqdm
+
+## EDA
+numpy
+pandas
+seaborn
+plotly
+nltk
+wordcloud
+scikit-learn
+nbformat
+pillow
+
+torch
+transformers
+ipywidgets
+scikit-learn
